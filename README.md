@@ -7,5 +7,7 @@
   <h3>Week 3 - <p>https://github.com/2303A52462/AIML/blob/main/AIML%20WEEK3.ipynb</p></h3></div>
   <h3>Week 4 - <p>https://github.com/2303A52462/AIML/blob/main/AIML%20WEEK3.ipynb</p></h3></div>
   <h3>Week 5 - <p>https://github.com/2303A52462/AIML/blob/main/AIML_5.ipynb</p></h3></div>
+  <h3>Week 6 - <p>https://github.com/2303A52462/AIML/blob/main/AIML%20WEEK%201.ipynb</p></h3></div>
 </body>
+
 
