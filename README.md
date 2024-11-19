@@ -13,7 +13,7 @@
 </body>
  <h3>Week 8 - <p>https://github.com/2303A52462/AIML/blob/main/Week_8.ipynb></h3></div>
  <h3>Week 9 - <p>https://github.com/2303A52462/AIML/blob/main/Week%209%20(3).ipynb></h3></div>
- <h3>Week 10 - <p>></h3></div>
+ <h3>Week 10 - <p>https://github.com/2303A52462/AIML/blob/main/Week%20-%2010%20%5BKMeans%5D%20(1).ipynb></h3></div>
  <h3>Week 11- <p>></h3></div>
 
 
